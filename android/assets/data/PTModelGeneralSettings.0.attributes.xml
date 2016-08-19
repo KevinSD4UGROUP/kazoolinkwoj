@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>10</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World Of Jango</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Forced Movement</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Move Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{17.333,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.750,19.500}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Counter</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump From Ground</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Simulation Time Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-80.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Auto Image Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Score Multiplier</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.250000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Shoot Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>49</string>
+                </dict>
+                <key>Jump Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>32</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>24758</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>iAds</key>
+                        <string>0</string>
+                        <key>heyZap</key>
+                        <string>5cb88596c916389dc8d74486679debf9</string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>leaderboardId</key>
+                        <string>bestplayers972</string>
+                        <key>playhavenToken</key>
+                        <string></string>
+                        <key>playhavenKey</key>
+                        <string></string>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>leadBolt</key>
+                        <string></string>
+                        <key>vungle</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string></string>
+                        <key>bundleID</key>
+                        <string>sd4ugroup.jungoworld</string>
+                        <key>nameOnDevice</key>
+                        <string>World of Jango</string>
+                        <key>shareMessageTemplate</key>
+                        <string>Hey Crazy Jango is Awersome try to beat my Hi-score ! Try it : </string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>licenseKey</key>
+                        <string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5V/SRhsEw7nsUgZ1FvcDoqiwheoq5nATGkgg38LdILzcBiXb4ACfhIBompmi9sbGvN0rTxAs9ITMFkw94RV1gOKRt9t45N4XVCGnmuOjiHENhoKC0KvEYKrr2N414haPyZ2FldfOROlNf5eR13U40W3TeyqaLtDdt5apype3cX6UqkaA734n7yuPl+9KryrqzKt2Iky92ijZQqRQcL2oK1v3zvMmavKiskKmzOWGnT4gTAhS8LLj6dLJr1WRe6lyDYHmAhPbDJynTHBg9jX9henfVj95qfz7IlvD8feFIIj343ONafrF1epck6IalohEJ2u6x/BUr1bvyhuzYO6z7wIDAQAB</string>
+                        <key>googlePlayId</key>
+                        <string>649229056170</string>
+                        <key>leaderboardId</key>
+                        <string>CgkIqvHEyPISEAIQCw</string>
+                        <key>appLovin</key>
+                        <string></string>
+                        <key>leadBolt</key>
+                        <string></string>
+                        <key>revMob</key>
+                        <string></string>
+                        <key>facebookBanner</key>
+                        <string></string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>facebookInterstitial</key>
+                        <string></string>
+                        <key>vungle</key>
+                        <string>com.sd4ugroup.crazyjango.com</string>
+                        <key>heyZap</key>
+                        <string>5cb88596c916389dc8d74486679debf9</string>
+                        <key>charboostID</key>
+                        <string>567fae66a8b63c18ecdd5841</string>
+                        <key>charboostSignature</key>
+                        <string>3869aae6d703d80af698ba3202d18aa00b90442d</string>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>playhavenToken</key>
+                        <string></string>
+                        <key>playhavenKey</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string>ca-app-pub-2567769367308500/2919897458</string>
+                        <key>versionCode</key>
+                        <string>70</string>
+                        <key>bundleID</key>
+                        <string>com.sd4ugroup.crazyjango.com</string>
+                        <key>nameOnDevice</key>
+                        <string>World Of Jango</string>
+                        <key>shareMessageTemplate</key>
+                        <string>Hey Crazy Jango is Awersome try to beat my Hi-score ! Try it : https://play.google.com/store/apps/details?id=com.sd4ugroup.crazyjango.com</string>
+                        <key>reviewLink</key>
+                        <string>https://play.google.com/store/apps/details?id=com.sd4ugroup.crazyjango.com</string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>bundleID</key>
+                        <string>com.sd4ugroup.woj</string>
+                        <key>nameOnDevice</key>
+                        <string>World OF Jango</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>bundleID</key>
+                        <string>com.companyname.gamename</string>
+                        <key>nameOnDevice</key>
+                        <string>Crazy Jango</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>APIKey</key>
+                        <string>eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50Ljk3ZWFmYTM5M2VkNzRmMTc5NjBhNDE2NGE2NzY0OGQ4IiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi42OTM1MjI3MjE4NmI0MDg4YTAxN2JlY2I2OGY4MjFlMSIsImlzcyI6IkFtYXpvbiIsInR5cGUiOiJBUElLZXkiLCJwa2ciOiJjb20uc2Q0dWdyb3VwLmNyYXp5amFuZ28uY29tIiwiYXBwVmFyaWFudElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50LjEyNzZhYTk5NmUzZjQ0M2ViMThkNmYzNTI5ZTliZDk3IiwidHJ1c3RQb29sIjpudWxsLCJhcHBzaWciOiJBNjo3ODpCMzoyNDo3QzpFQzo0NzowMzoyNzpGQjpEOTpCMzo4MTpCNDpDMToyNyIsImFwcElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50LjEyNzZhYTk5NmUzZjQ0M2ViMThkNmYzNTI5ZTliZDk3IiwiaWQiOiI3ZDczMjU3Mi05MmE3LTExZTUtOGZmOC1iYjQyMjQyNzE0ZTMiLCJpYXQiOiIxNDQ4MzY4Mzc2NjY0In0=.bpKJbMmKXa7GsqVfMmdh/R6KTedkwQ38wFV8efZcSvqOgP0kukMb4b7wvN/nKh7DVio62jQ29M6jNr7GQLaqFQI4T+LKK26+/W14lfFGe4ZFud+KjWlD6xrG4HQJF0GzOCjoIli/UuXWQZwgOmg3Tngd6eGxZFk3F4zc7CximzMOl4MQi5IjgIETrw97tylYsCFTBh0KSNyu4SI7eIt0ib2j0fIzuUHcuzO8UXBLMQdbzu1WBAfwkPaNX34S5owj8uTqZLCQtoZ7Bl1vEHuscQDwc8Frn/VqM9gTExDPg/JFcDEO35M+YwqosggVngW3vim0PoX8iIZIWDVr/Dod5g==</string>
+                        <key>versionCode</key>
+                        <string>1.1</string>
+                        <key>revMob</key>
+                        <string>565d84dfe668b4435852f199</string>
+                        <key>interstitialsOrder</key>
+                        <string>kRevMob</string>
+                        <key>bannersOrder</key>
+                        <string>kRevMob</string>
+                        <key>leaderboardId</key>
+                        <string>Coins</string>
+                        <key>bundleID</key>
+                        <string>com.sd4ugroup.crazyjango.underground</string>
+                        <key>nameOnDevice</key>
+                        <string>Crazy Jango</string>
+                        <key>shareMessageTemplate</key>
+                        <string>Try it with your friends and beat their hi-scores !</string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Coins</string>
+                <key>shareScreen</key>
+                <string>Game Field Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>1</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0000,0.0000},{0.4200,1.0000}}</string>
+                <key>_ibVersion</key>
+                <string>1.3.5</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationLandscape</string>
+                <key>screenAdjustment</key>
+                <string>2</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

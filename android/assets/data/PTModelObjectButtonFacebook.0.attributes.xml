@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2839</string>
+                <key>className</key>
+                <string>PTModelObjectButtonFacebook</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{120.000,310.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.212,0.218}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Facebook URL</key>
+                <dict>
+                    <key>value</key>
+                    <string>https://www.facebook.com/Crazy-Jango-215900578741531</string>
+                </dict>
+                <key>Facebook ID</key>
+                <dict>
+                    <key>value</key>
+                    <string>215900578741531</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6635</string>
+                <key>className</key>
+                <string>PTModelObjectButtonFacebook</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1030.000,390.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.351,0.396}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Facebook URL</key>
+                <dict>
+                    <key>value</key>
+                    <string>https://www.facebook.com/Crazy-Jango-215900578741531</string>
+                </dict>
+                <key>Facebook ID</key>
+                <dict>
+                    <key>value</key>
+                    <string>215900578741531</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

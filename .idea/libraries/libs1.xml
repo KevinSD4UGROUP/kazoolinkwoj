@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdVungle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdAppLovin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdFacebook.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdMoPub.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdChartboost.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/support-v4-19.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/nineoldandroids-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdRevMob.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/dagger-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdHeyzap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdLeadBolt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

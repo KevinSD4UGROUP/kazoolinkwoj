@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>111</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>113</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>6857</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>237</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>187</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>213</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>295</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>6202</string>
+                </dict>
+                <key>Ground Collision</key>
+                <dict>
+                    <key>value</key>
+                    <string>364</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11894</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>11896</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>12040</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>12048</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>12112</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>12027</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>12133</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>6202</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16065</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16067</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16094</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16118</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16144</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>6202</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3436</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3438</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3464</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3517</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3543</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3570</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>6202</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10644</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10646</string>
+                </dict>
+                <key>Jump Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10700</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10738</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10742</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>6202</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

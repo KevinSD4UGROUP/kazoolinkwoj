@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdUpsight/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdUpsight/libs/gcm-client-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdUpsight/libs/spring-android-core-1.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdUpsight/libs/json-smart-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdUpsight/libs/json-path-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/libs/PTAdUpsight/libs/spring-android-rest-template-1.0.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
